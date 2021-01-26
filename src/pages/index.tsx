@@ -20,7 +20,7 @@ const HomePage: NextPage = () => (
           title="Enterprise-Grade Boilerplate "
           description="Production ready solution using ReactJS, NextJS, ChakraUI and TypeScript."
           cta={
-            <NextLink href="/beta">
+            <NextLink href="https://github.com/4t4sh/react-next-chakra-ts">
               <Button size="lg">
                 <span role="img" aria-label="Rocket emoji">
                   Get the code 🚀
