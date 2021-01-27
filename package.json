@@ -1,7 +1,7 @@
 {
 	"name": "@4t4sh/react-next-chakra-ts",
 	"description": "",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"private": true,
 	"scripts": {
 		"dev": "next",
